@@ -1,0 +1,9 @@
+Pandas: 2.2.3
+Numpy: 2.2.4
+Matplotlib: 3.10.1
+Seaborn: 0.13.2
+Scikit-learn: 1.6.1
+XGBoost: 3.0.0
+LightGBM: 4.6.0
+Imbalanced-learn (imblearn): 0.13.0
+Joblib: 1.4.2
